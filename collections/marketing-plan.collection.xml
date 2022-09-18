@@ -1,0 +1,40 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Manual" authors="Shishir Kant">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11193</md:content-id>
+    <md:title>marketing plan</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>37944481-5759-4376-a8fe-998b2168cc77</md:uuid>
+<md:slug>marketing-plan</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>(Untitled)</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>lecture notes</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>(Untitled)</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>(Untitled)</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>project</md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>(Untitled)</md:title>
+                  <col:content>                  </col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
